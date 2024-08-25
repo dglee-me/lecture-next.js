@@ -1,5 +1,5 @@
 interface BookData {
-    id : Number;
+    id : number;
     title: string;
     subTitle: string;
     author: string;
